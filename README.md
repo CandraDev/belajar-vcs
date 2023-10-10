@@ -1,4 +1,4 @@
 # belajar-vcs
 
 Ini baris pertama yg dibuat
-Ini baris kedua yg dibuat
+Barusan, saya hapus baris kedua, ini baris ketiga
